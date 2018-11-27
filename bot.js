@@ -17,5 +17,5 @@ process.on('message', function(content) {
 });
 
 
-client.login(process.env.NTE3MDAwOTE4ODM1OTIwODk2.Dt72Vw.iMBGQffFP-Y2y9xnIlhw_Hohtig)
+client.login(process.env.NTE3MDAwOTE4ODM1OTIwODk2.Dt72Vw.iMBGQffFP-Y2y9xnIlhw_Hohtig);
 }
